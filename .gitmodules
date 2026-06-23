@@ -1,0 +1,3 @@
+[submodule "resources/external/Common.Playwright"]
+    path = resources/external/Common.Playwright
+    url = https://github.com/koushikroy366-cmyk/Common.Playwright
